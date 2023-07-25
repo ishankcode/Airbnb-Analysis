@@ -6,6 +6,8 @@ Used Python and Tableau to explore Airbnb Dataset
 -----
 
 # Dataset
+
+Datset can be found here : https://www.kaggle.com/datasets/airbnb/seattle
 1. Listings.csv
 2. Reviews.csv
 3. Calendar.csv
@@ -38,3 +40,17 @@ Tableau story can be found here [Link](https://public.tableau.com/app/profile/is
 -----
 # Medium Article
 Medium article can be found here [Link](https://medium.com/@ishank.gupta23/airbnb-seattle-analysis-83feee890986)
+
+-----
+# Libraries used 
+ 
+ - Pandas
+ - Numpy
+ - Math
+ - NLTK
+ - Matplotlib
+ - Seaborn
+ - Plotly
+ - Scipy
+ 
+
