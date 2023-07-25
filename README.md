@@ -36,3 +36,5 @@ The main goal of this Project is to reveal valuable insights and trends concerni
 Tableau story can be found here [Link](https://public.tableau.com/app/profile/ishank.gupta1043/viz/AIRBNBANALYSIS_16901812185920/AIRBNBANALYSIS#1)
 
 -----
+# Medium Article
+Medium article can be found here [Link](https://medium.com/@ishank.gupta23/airbnb-seattle-analysis-83feee890986)
